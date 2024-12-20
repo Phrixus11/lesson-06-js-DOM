@@ -25,7 +25,7 @@ const colorButton = document.querySelector('#color-button')
 colorButton.setAttribute('title', 'Сгенерировать случайные цвета')
 
 // и посмотрим на его значение в консоли
-console.log(colorButton.getAttribute('title'))
+// console.log(colorButton.getAttribute('title'))
 
 // const domItem = document.querySelector('#dom')
 domItem.classList.add('current')
